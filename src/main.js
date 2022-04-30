@@ -1,4 +1,4 @@
-import { Application } from '@splinetool/runtime';
+import { Application } from '../node_modules/@splinetool/runtime';
 
 const canvas = document.getElementById('canvas3d');
 const app = new Application(canvas);
